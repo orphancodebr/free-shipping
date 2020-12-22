@@ -11,6 +11,6 @@
 ### Exemplo 1
 <img src="https://github.com/sincromaster/free-shipping/blob/main/frete-apartir.png" alt="Frete grátis a partir de R$ 990,00">
 
-# Exemplo 2
+### Exemplo 2
 <img src="https://github.com/sincromaster/free-shipping/blob/main/frete-gratis.png" alt="Sucesso! Você tem frete grátis">
 
